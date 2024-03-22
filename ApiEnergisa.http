@@ -1,0 +1,6 @@
+@ApiEnergisa_HostAddress = http://localhost:5125
+
+GET {{ApiEnergisa_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
